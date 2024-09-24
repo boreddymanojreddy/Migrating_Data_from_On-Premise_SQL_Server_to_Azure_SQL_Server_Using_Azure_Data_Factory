@@ -2,7 +2,7 @@
 copy data from the on-premise SQL server to the Azure SQL server
 
 ![image](https://github.com/user-attachments/assets/c8e609c0-089a-415b-95d9-b51644ca90d9)
-###let's get started
+### let's get started
 To get started with this project, you must have access to:
 * azure subscription
 * On-premise SQL server database
