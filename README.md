@@ -3,7 +3,7 @@ This repository provides a step-by-step guide to migrate data from an on-premise
 
 ![image](https://github.com/user-attachments/assets/c8e609c0-089a-415b-95d9-b51644ca90d9)
 
-# Table of Contents
+# Table of Contents.
 + Prerequisites
 + Overview
 + Setup Azure Data Factory
