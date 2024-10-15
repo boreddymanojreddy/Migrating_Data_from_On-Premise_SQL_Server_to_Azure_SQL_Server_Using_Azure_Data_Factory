@@ -8,8 +8,8 @@ This repository provides a step-by-step guide to migrate data from an on-premise
 + Overview
 + Setup Azure Data Factory
      + Create Integration Runtime
-     +Create Linked Services
-     +Create Datasets
+     + Create Linked Services
+     + Create Datasets
 + Creating and Running a Pipeline
 + Monitoring the Pipeline
 + Conclusion
